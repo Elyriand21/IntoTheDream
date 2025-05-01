@@ -24,16 +24,6 @@
 
 - **Language**: Python 3
 - **Library**: [Pygame](https://www.pygame.org/)
-- **Assets Folder Structure**:
-  ```
-  assets/
-  ├── MainCharacters/
-  │   └── MaskDude/
-  ├── Terrain/
-  │   └── Terrain.png
-  └── background/
-      └── Green.png
-  ```
 
 ---
 
@@ -71,17 +61,6 @@
 | `D`         | Move Right          |
 | `Spacebar`  | Jump / Double Jump  |
 | `Esc`       | Quit Game           |
-
----
-
-## 📁 Code Structure
-
-| File | Description |
-|------|-------------|
-| `main.py` | Main game loop, event handling, player logic |
-| `assets/` | Spritesheets, terrain, and background images |
-
----
 
 ## 🧱 Known Limitations
 
